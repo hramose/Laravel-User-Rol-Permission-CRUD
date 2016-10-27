@@ -17,6 +17,7 @@ También se agregaron otros componentes que permitan un mejor desarrollo en el p
 De necesitar ayuda no dude en comunicarse con nosotros, que con gusto le podemos ayudar en el presente proyecto
 
 Atte,
-Tarsicio Carrizales
-telecom.com.ve@gmail.com
+<p>
+<b>Tarsicio Carrizales</b><p>
+telecom.com.ve@gmail.com<p>
 Twitter: https://twitter.com/@tarsicio_tic
