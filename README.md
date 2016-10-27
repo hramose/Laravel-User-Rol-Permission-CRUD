@@ -21,6 +21,10 @@ Recuerde crear la base de datos, con su gestor preferido, y configurar el archiv
 
 Una vez culminado y desee entrar dentro de la aplicación entre con el correo de ejemplo <b>telecom.com.ve@gmail.com</b> clave <b>123456</b> ó si lo desea el el seeder de usuario cambie los datos por los de su preferencia.
 
+No hace falta que utilice el comando <b>composer update</b>, ya que este repositorio esta completo con todos los componentes que necesita para trabajar.
+
+Cuando usted termine de configurar esta aplicación, recuerde de quitar la opción de debuger, para que no se muestre al usuario final.
+
 De necesitar ayuda no dude en comunicarse con nosotros, que con gusto le podemos ayudar en el presente proyecto
 
 Atte,
