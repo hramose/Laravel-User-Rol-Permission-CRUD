@@ -14,6 +14,13 @@ La parte de "bincan/roles" fue modificada para su mejor funcionamiento.
 
 También se agregaron otros componentes que permitan un mejor desarrollo en el presente proyecto, los cuales pueden visualizar en el archivo "composer.json"
 
+Para facilitar su trabajo una vez instalada la aplicación puede ejecutar el comando: <b>php artisan migrate:refresh --seed</b>
+esto le permitirá crear las tablas para su base de datos y cargar los registros básicos de inicio, los cuales le permitirán trabajar con la aplicación.
+
+Recuerde crear la base de datos, con su gestor preferido, y configurar el archivo <b>.env</b> dentro de la aplicación
+
+Una vez culminado y desee entrar dentro de la aplicación entre con el correo de ejemplo <b>telecom.com.ve@gmail.com</b> clave <b>123456</b> ó si lo desea el el seeder de usuario cambie los datos por los de su preferencia.
+
 De necesitar ayuda no dude en comunicarse con nosotros, que con gusto le podemos ayudar en el presente proyecto
 
 Atte,
