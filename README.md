@@ -25,6 +25,8 @@ No hace falta que utilice el comando <b>composer update</b>, ya que este reposit
 
 Cuando usted termine de configurar esta aplicación, recuerde de quitar la opción de debuger, para que no se muestre al usuario final.
 
+Pueden realizar sus comentarios por la cuenta de twitter <b>@tarsicio_tic</b> o directamente por esta vía
+
 De necesitar ayuda no dude en comunicarse con nosotros, que con gusto le podemos ayudar en el presente proyecto
 
 Atte,
